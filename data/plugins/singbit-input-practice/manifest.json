@@ -16,6 +16,7 @@
   ],
   "order": 10,
   "icon": "⌨",
+  "abbr": "SIP",
   "type": "widget",
   "desc": "一张玻璃卡，点了就在这一页里把声笔输入法练习打开",
   "first": 40,
